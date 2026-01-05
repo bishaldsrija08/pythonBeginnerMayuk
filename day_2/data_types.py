@@ -1,5 +1,5 @@
-print(90)
-print(3.14)
+print(90) # Whole numbers are called integers in Python
+print(3.14) # Decimal number are called float in Python
 print(90.0) # Equivalent to 90
 
 print("Hello, World!")
