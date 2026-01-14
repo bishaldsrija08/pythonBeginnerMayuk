@@ -1,0 +1,22 @@
+Simple Data Types
+
+1. Write a program that takes an integer as input and prints whether it is positive, negative, or zero.
+2. Ask the user for their name and age, then print a message saying how old they will be after 5 years.
+3. Given two numbers, write a program to swap their values without using a third variable.
+
+Conditionals
+
+4. Write a program that takes a number and checks whether it is even or odd.
+5. Take three numbers as input and print the largest among them.
+6. Write a program that asks for a student’s marks (0–100) and prints the grade:
+90–100 → A
+75–89 → B
+50–74 → C
+Below 50 → Fail
+
+Loops
+
+1. Write a program to print all numbers from 1 to 50 that are divisible by 5.
+2. Take a number n as input and print the sum of the first n natural numbers using a loop.
+3. Write a program to print the multiplication table of a given number (up to 10).
+4. Given a number, write a program to count the number of digits in it using a loop.
