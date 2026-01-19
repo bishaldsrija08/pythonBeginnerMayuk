@@ -30,3 +30,7 @@ While loop questins
 5. WAP to print first 10 whole numbers.
 6. WAP to print even numbers between 60 to 80.
 7. WAP to print odd numbers between 60 to 80.
+
+Hard
+1. WAP to check wheter a number is armstrong or not.
+2. WAP to check whether a number is palindrome or not.
