@@ -77,6 +77,14 @@ for i in range(lines, 0, -1):
 11 12 13 14 15
 """
 
+lines = 5
+count = 1
+for i in range(1, lines+1):
+    for j in range(1, i+1):
+        print(count, end= " ")
+        count = count+1
+    print()
+
 """
 * * * * *
 *       *
