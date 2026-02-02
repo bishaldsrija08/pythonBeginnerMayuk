@@ -1,0 +1,10 @@
+
+
+WAP to to find greatest among 3 using function.
+WAP to check odd or even using function.
+WAP to check positive, negetive or zero using function.
+WAP to print 1 to 10 using function.
+WAP to print first 10 odd numbers using function.
+WAP to print first 10 even numbers using function.
+WAP to print reverse number using function.
+WAP to check amrstrong or not using function.
