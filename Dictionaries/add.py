@@ -6,8 +6,10 @@ perosn ={
     "interest": ["coding", "music", "traveling", "music"],
     "name1": "Bishal"
 }
-# key: value
+
+
+perosn["hobby"] = "coding"
 print(perosn)
 
-print(len(perosn))
-print(type(perosn))
+perosn.update({"fav_color": "red"})
+print(perosn)

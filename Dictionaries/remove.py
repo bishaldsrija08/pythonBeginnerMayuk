@@ -6,8 +6,13 @@ perosn ={
     "interest": ["coding", "music", "traveling", "music"],
     "name1": "Bishal"
 }
-# key: value
+
+
+perosn.pop("name1")
 print(perosn)
 
-print(len(perosn))
-print(type(perosn))
+del perosn["age"]
+print(perosn)
+
+perosn.clear()
+print(perosn)

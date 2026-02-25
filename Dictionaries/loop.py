@@ -6,8 +6,14 @@ perosn ={
     "interest": ["coding", "music", "traveling", "music"],
     "name1": "Bishal"
 }
-# key: value
-print(perosn)
 
-print(len(perosn))
-print(type(perosn))
+for key in perosn:
+    print(perosn[key])
+    
+
+for key in perosn.keys():
+    print(key)
+    
+
+for value in perosn.values():
+    print(value)

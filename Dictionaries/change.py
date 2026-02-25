@@ -6,8 +6,10 @@ perosn ={
     "interest": ["coding", "music", "traveling", "music"],
     "name1": "Bishal"
 }
-# key: value
+
+perosn["name"]= "Rajesh Hamal"
 print(perosn)
 
-print(len(perosn))
-print(type(perosn))
+perosn.update({"name": "Sita", "age": 30})
+print(perosn)
+
